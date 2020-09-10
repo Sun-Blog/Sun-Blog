@@ -15,7 +15,7 @@
 
 - :earth_americas:  河南-郑州
 - :video_game:  like 小游戏
-- :gem:  like DIY树莓派
+- :gem:  like 看电影
 
 
 ## Reach me 
