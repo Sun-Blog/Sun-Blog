@@ -5,7 +5,7 @@
 
 前端 | 软件工程师 🤖
 
-主用Git管理平台：
+主用Git管理平台：<br/>
 [![GitHub](https://img.shields.io/badge/github-%E5%8D%97%E9%A3%8E%E5%8C%97%E5%B7%B7-red)](https://github.com/user-wtx)
 [![GitHub](https://img.shields.io/badge/gitee-%E5%8D%97%E9%A3%8E%E5%8C%97%E5%B7%B7-green)](https://gitee.com/user-wtx)
 
