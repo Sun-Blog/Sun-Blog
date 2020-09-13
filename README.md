@@ -6,7 +6,7 @@
 前端 | 软件工程师 🤖
 
 主用Git管理平台：<br/>
-[![GitHub](https://img.shields.io/badge/GitHub-%E5%8D%97%E9%A3%8E%E5%8C%97%E5%B7%B7-red.svg)](https://github.com/Sun-Blog)
+[![GitHub](https://img.shields.io/badge/GitHub-%E5%8D%97%E9%A3%8E%E5%8C%97%E5%B7%B7-red)](https://github.com/Sun-Blog)
 [![Gitee](https://img.shields.io/badge/Gitee-%E5%8D%97%E9%A3%8E%E5%8C%97%E5%B7%B7-orange.svg)](https://gitee.com/Sun-Blog)
 
 ## About me 
