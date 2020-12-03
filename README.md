@@ -1,4 +1,4 @@
-<img align="right" width="270" height="420" src="./img/图片.jpg">
+<img align="right" width="270" height="420" src="https://cdn.pixabay.com/photo/2020/11/24/18/19/cat-5773481_1280.jpg">
 
 # Hi, I'm [南风北巷](https://github.com/Sun-Blog) 👋.
 
