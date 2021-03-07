@@ -5,8 +5,8 @@
 前端 | 软件工程师 🤖
 
 主用 Git 管理平台：<br/>
-[![GitHub](https://img.shields.io/badge/GitHub-%E5%8D%97%E9%A3%8E%E5%8C%97%E5%B7%B7-red)](https://github.com/Sun-Blog)
-[![Gitee](https://img.shields.io/badge/Gitee-%E5%8D%97%E9%A3%8E%E5%8C%97%E5%B7%B7-orange.svg)](https://gitee.com/Sun-Blog)
+[![GitHub](https://img.shields.io/badge/GitHub-%E5%8D%97%E9%A3%8E-red)](https://github.com/Sun-Blog)
+[![Gitee](https://img.shields.io/badge/Gitee-%E5%8D%97%E9%A3%8E-orange.svg)](https://gitee.com/Sun-Blog)
 
 ## About me
 
@@ -18,10 +18,10 @@
 
 ## Reach me
 
-[![Github](https://img.shields.io/badge/GitHub-%E5%8D%97%E9%A3%8E%E5%8C%97%E5%B7%B7-red.svg)](https://github.com/Sun-Blog)
-[![Gitee](https://img.shields.io/badge/Gitee-%E5%8D%97%E9%A3%8E%E5%8C%97%E5%B7%B7-orange.svg)](https://gitee.com/Sun-Blog)
-[![CSDN](https://img.shields.io/badge/CSDN-%E5%8D%97%E9%A3%8E%E5%8C%97%E5%B7%B7-yellow.svg)](https://blog.csdn.net/qq_39264561)
-[![music](https://img.shields.io/badge/Music-%E5%8D%97%E9%A3%8E%E5%8C%97%E5%B7%B7-green.svg)](https://music.163.com/)
+[![Github](https://img.shields.io/badge/GitHub-%E5%8D%97%E9%A3%8E-red.svg)](https://github.com/Sun-Blog)
+[![Gitee](https://img.shields.io/badge/Gitee-%E5%8D%97%E9%A3%8E-orange.svg)](https://gitee.com/Sun-Blog)
+[![CSDN](https://img.shields.io/badge/CSDN-%E5%8D%97%E9%A3%8E-yellow.svg)](https://blog.csdn.net/qq_39264561)
+[![music](https://img.shields.io/badge/Music-%E5%8D%97%E9%A3%8E-green.svg)](https://music.163.com/)
 
 ### Interesting stats
 
