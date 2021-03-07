@@ -1,6 +1,6 @@
 <img align="right" width="400" height="420" src="https://cdn.pixabay.com/photo/2020/11/24/18/19/cat-5773481_1280.jpg">
 
-# Hi, I'm [南风北巷](https://github.com/Sun-Blog) 👋.
+# Hi, I'm [南风](https://github.com/Sun-Blog) 👋.
 
 前端 | 软件工程师 🤖
 
